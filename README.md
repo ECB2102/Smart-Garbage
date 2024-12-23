@@ -1,4 +1,3 @@
-# Smart-Garbage
 CODE : 
 Do not forget to install the servo library. Without this library, code will not compile in Arduino IDE Software.
 #include  <Servo.h>            //servo library
